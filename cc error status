@@ -1,1 +1,36 @@
+• Customer
+   -search customer
+   -tab index with tab key and two enter-keys
+   -Validation (Mobile, email)
+   
+--------------------------------------------
+• new Product
+   -search product
+   -Tab index
+   -stock details
+   -tab index with tab key and two enter-keys
 
+--------------------------------------------
+• Salese
+    -Discount, Grand total amount mismatch
+    -tab index with tab key and two enter-keys
+
+• S.History
+   -change to typable textbox in invoice date
+   -remove GST field 
+   -auto selection needed in item search box
+   -edit, delete needed in items selected
+    
+--------------------------------------------    
+• purchase
+   -change to typable textbox in invoice date
+   -remove GST field 
+   -auto selection needed in item search box
+   -edit, delete needed in items selected
+   -tab index with tab key and two enter-keys
+   -MRP
+   
+--------------------------------------------
+
+   
+--------------------------------------------

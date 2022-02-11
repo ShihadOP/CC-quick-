@@ -1,34 +1,53 @@
 • Customer/supplier
-   1 : search customer/supplier not working proper ❌
-   2 : tab index with tab key and two enter-keys
+   1 : search customer/supplier not working proper ✅
+   2 : tab index with tab key⚠️
    3 : Validation (Mobile, email) ✅
-   4 :"enter" key is not working while delete customer/supplier ⚠️
+   4 : "enter" key is not working while delete customer/supplier⚠️
    5 : "email" is not mandatory
-   6 :  add red * for customer name, mobile
+   6 : add red * for customer name, mobile
    
 --------------------------------------------
-• new Product  
-   1 : search product
-   2 : Tab index
-   3 : stock details
-   4 : tab index with tab key and two enter-keys
-   5 : "tab index" not working while multiple tabs are opened⚠️
+• Product  
+   1 : search product ✅
+   2 : tab index with tab key⚠️
+   3 : "tab index" not working while multiple tabs are opened⚠️
+   4 : add stock details, moving in products list
+   5 : group, unit's selection is not working well
 --------------------------------------------
-• Salese
-    -Discount, Grand total amount mismatch
-    -tab index with tab key and two enter-keys
-
+• Category
+   1 : Add, Edit, Delete
+   2 : sub-group (add,edit,delete)    
+--------------------------------------------
+• Unit
+   1 : "enter" key is not working while delete unit ⚠️
+--------------------------------------------
+• Sales
+   1 : Discount, Grand total amount mismatch
+   2 : tab index with tab key and two enter-keys
+   
 • S.History
-   -change to typable textbox in invoice date
-   -remove GST field 
-   -auto selection needed in item search box
-   -edit, delete needed in items selected
+   1 : change to typable textbox in invoice date
+   2 : remove GST field 
+   3 : auto selection needed in item search box
+   4 : edit, delete needed in items selected
     
 --------------------------------------------    
 • purchase
-   -change to typable textbox in invoice date
-   -remove GST field 
-   -auto selection needed in item search box
-   -edit, delete needed in items selected
-   -tab index with tab key and two enter-keys
-   -MRP
+   1 : change to typable textbox in invoice date
+   2 : remove GST field 
+   3 : auto selection needed in item search box
+   4 ; edit, delete needed in items selected
+   5 : tab index with tab key and two enter-keys
+   6 : MRP
+
+--------------------------------------------    
+• Side-bar
+   1 : side bar order :
+         + billing
+         + purchase
+         + new 
+         + products
+         + analyse
+         + settings
+   2 : remove stock in sidebar add stock column in products.
+   3 : 

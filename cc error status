@@ -1,15 +1,18 @@
-• Customer
-   -search customer
-   -tab index with tab key and two enter-keys
-   -Validation (Mobile, email)
+• Customer/supplier
+   1 : search customer/supplier not working proper ❌
+   2 : tab index with tab key and two enter-keys
+   3 : Validation (Mobile, email) ✅
+   4 :"enter" key is not working while delete customer/supplier ⚠️
+   5 : "email" is not mandatory
+   6 :  add red * for customer name, mobile
    
 --------------------------------------------
-• new Product
-   -search product
-   -Tab index
-   -stock details
-   -tab index with tab key and two enter-keys
-
+• new Product  
+   1 : search product
+   2 : Tab index
+   3 : stock details
+   4 : tab index with tab key and two enter-keys
+   5 : "tab index" not working while multiple tabs are opened⚠️
 --------------------------------------------
 • Salese
     -Discount, Grand total amount mismatch
@@ -29,8 +32,3 @@
    -edit, delete needed in items selected
    -tab index with tab key and two enter-keys
    -MRP
-   
---------------------------------------------
-
-   
---------------------------------------------

@@ -22,15 +22,13 @@
    1 : "enter" key is not working while delete unit ⚠️
 --------------------------------------------
 • Sales
-   1 : Discount, Grand total amount mismatch
+   1 : Discount, Grand total amount mismatch✅
    2 : tab index with tab key and two enter-keys⚠️
    
 • S.History
-   1 : change to typable textbox in invoice date
-   2 : remove GST field 
-   3 : auto selection needed in item search box
-   4 : edit, delete needed in items selected
-    
+   1 : date wise search
+   2 : edit, delete needed in items selected⚠️
+   3 : sales return  
 --------------------------------------------    
 • purchase
    1 : change to typable textbox in invoice date
@@ -39,7 +37,10 @@
    4 ; edit, delete needed in items selected
    5 : tab index with tab key and two enter-keys
    6 : MRP
-
+• P.History
+   1 : date wise search
+   2 : edit, delete needed in items selected 
+   3 : purchase return
 --------------------------------------------    
 • Side-bar
    1 : side bar order :

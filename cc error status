@@ -13,6 +13,8 @@
    3 : "tab index" not working while multiple tabs are opened⚠️
    4 : add stock details, moving in products list ⚠️
    5 : group, unit's selection is not working well
+   6 : Price is not mandatory
+   7 : cant select category 
 --------------------------------------------
 • Category
    1 : Add, Edit, Delete
@@ -30,16 +32,17 @@
    2 : edit, delete needed in items selected⚠️
    3 : sales return  
 --------------------------------------------    
-• purchase
+• purchase entry
    1 : change to typable textbox in invoice date
-   2 : remove GST field 
+   2 : remove GST ID 
    3 : auto selection needed in item search box
    4 ; edit, delete needed in items selected
    5 : tab index with tab key and two enter-keys
-   6 : MRP
+   6 : selling MRP
+   7 : Add GST % 
 • P.History
    1 : date wise search
-   2 : edit, delete needed in items selected 
+   2 : edit, delete needed in items selected ⚠️
    3 : purchase return
 --------------------------------------------    
 • Side-bar

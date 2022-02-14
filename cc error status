@@ -14,7 +14,9 @@
    4 : add stock details, moving in products list ⚠️
    5 : group, unit's selection is not working well
    6 : Price is not mandatory
-   7 : cant select category 
+   7 : HSN is not mandatory 
+   8 : no feild to select sub group
+   9 : add * for product name, group, unit
 --------------------------------------------
 • Category
    1 : Add, Edit, Delete

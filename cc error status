@@ -5,6 +5,7 @@
    4 : "enter" key is not working while delete customer/supplier⚠️
    5 : "email" is not mandatory
    6 : add red * for customer name, mobile
+   7 : change button-hover-color in alert messages 
    
 --------------------------------------------
 • Product  
@@ -28,11 +29,15 @@
 • Sales
    1 : Discount, Grand total amount mismatch✅
    2 : tab index with tab key and two enter-keys⚠️
+   3 : cant close new customer window
+   4 : remove date picker 
+   5 : remove GST fields 
    
 • S.History
    1 : date wise search
    2 : edit, delete needed in items selected⚠️
    3 : sales return  
+   4 : search
 --------------------------------------------    
 • purchase entry
    1 : change to typable textbox in invoice date
@@ -55,5 +60,9 @@
          + products
          + analyse
          + settings
+         + 
    2 : remove stock in sidebar add stock column in products.
    3 : 
+
+
+future: sales-total amount of item 

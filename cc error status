@@ -38,6 +38,7 @@
    2 : edit, delete needed in items selected⚠️
    3 : sales return  
    4 : search
+   5 : approve, delete
 --------------------------------------------    
 • purchase entry
    1 : change to typable textbox in invoice date
@@ -51,6 +52,7 @@
    1 : date wise search
    2 : edit, delete needed in items selected ⚠️
    3 : purchase return
+   4 : edit before approval, approve, delete
 --------------------------------------------    
 • Side-bar
    1 : side bar order :

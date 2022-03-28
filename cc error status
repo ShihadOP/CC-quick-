@@ -6,6 +6,8 @@
    5 : "email" is not mandatory
    6 : add red * for customer name, mobile
    7 : change button-hover-color in alert messages 
+   8 : cant search with mobile
+   9 : add GST number
    
 --------------------------------------------
 • Product  
@@ -16,8 +18,9 @@
    5 : group, unit's selection is not working well
    6 : Price is not mandatory
    7 : HSN is not mandatory 
-   8 : no feild to select sub group
+   8 : no field to select sub group
    9 : add * for product name, group, unit
+   10 : cant close dropdown list of category    
 --------------------------------------------
 • Category
    1 : Add, Edit, Delete
@@ -32,6 +35,7 @@
    3 : cant close new customer window
    4 : remove date picker 
    5 : remove GST fields 
+   6 : error (entered item may edited) while multiple item entry
    
 • S.History
    1 : date wise search
@@ -48,6 +52,7 @@
    5 : tab index with tab key and two enter-keys
    6 : selling MRP
    7 : Add GST % in items 
+   8 : cant select tax % by kkeybord
 • P.History
    1 : date wise search
    2 : edit, delete needed in items selected ⚠️

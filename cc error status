@@ -15,11 +15,11 @@
    2 : tab index with tab key⚠️
    3 : "tab index" not working while multiple tabs are opened⚠️
    4 : add stock details, moving in products list ⚠️
-   5 : group, unit's selection is not working well
-   6 : Price is not mandatory
-   7 : HSN is not mandatory 
-   8 : no field to select sub group
-   9 : add * for product name, group, unit
+   5 : group, unit's selection is not working well ✅
+   6 : Price is not mandatory ✅
+   7 : HSN is not mandatory ✅
+   8 : no field to select sub group ✅
+   9 : add * for product name, group, unit ✅
    10 : cant close dropdown list of category    
 --------------------------------------------
 • Category

@@ -3,7 +3,7 @@
    2 : tab index with tab key⚠️
    3 : Validation (Mobile, email) ✅
    4 : "enter" key is not working while delete customer/supplier⚠️
-   5 : "email" is not mandatory
+   5 : "email" is not mandatory ✅
    6 : add red * for customer name, mobile
    7 : change button-hover-color in alert messages 
    8 : cant search with mobile
@@ -23,11 +23,11 @@
    10 : cant close dropdown list of category    
 --------------------------------------------
 • Category
-   1 : Add, Edit, Delete
-   2 : sub-group (add,edit,delete)    
+   1 : Add, Edit, Delete ⚠️
+   2 : sub-group (add,edit,delete) ✅ 
 --------------------------------------------
 • Unit
-   1 : "enter" key is not working while delete unit ⚠️
+   1 :
 --------------------------------------------
 • Sales
    1 : Discount, Grand total amount mismatch✅
@@ -70,6 +70,9 @@
          + 
    2 : remove stock in sidebar add stock column in products.
    3 : 
-
+--------------------------------------------    
+• common
+   1. "enter" key is not working while alert message 
+   2. update
 
 future: sales-total amount of item 

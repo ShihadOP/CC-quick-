@@ -5,9 +5,9 @@
    4 : "enter" key is not working while delete customer/supplier⚠️
    5 : "email" is not mandatory ✅
    6 : add red * for customer name, mobile
-   7 : change button-hover-color in alert messages 
-   8 : cant search with mobile
-   9 : add GST number
+   7 :  cant search with mobile
+   8 : add GST number
+   9 : 
    
 --------------------------------------------
 • Product  
@@ -52,7 +52,8 @@
    5 : tab index with tab key and two enter-keys
    6 : selling MRP
    7 : Add GST % in items 
-   8 : cant select tax % by kkeybord
+   8 : cant select tax % by keybord
+   9 : if purchase rate greater than MRP need an alert after typing  purchase rate  -10.04.2022 
 • P.History
    1 : date wise search
    2 : edit, delete needed in items selected ⚠️
@@ -72,7 +73,7 @@
    3 : 
 --------------------------------------------    
 • common
-   1. "enter" key is not working while alert message 
-   2. update
+   1. "enter" key is not working while alert message, change button-hover-color 
+   2. update 
 
 future: sales-total amount of item 

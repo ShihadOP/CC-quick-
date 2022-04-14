@@ -4,9 +4,9 @@
    3 : Validation (Mobile, email) ✅
    4 : "enter" key is not working while delete customer/supplier⚠️
    5 : "email" is not mandatory ✅
-   6 : add red * for customer name, mobile
-   7 :  cant search with mobile
-   8 : add GST number
+   6 : add red * for customer name, mobile ✅
+   7 : cant search with mobile
+   8 : add GST number 
    9 : 
    
 --------------------------------------------
@@ -20,7 +20,7 @@
    7 : HSN is not mandatory ✅
    8 : no field to select sub group ✅
    9 : add * for product name, group, unit ✅
-   10 : cant close dropdown list of category    
+   10: cant close dropdown list of category while selected by mouse   
 --------------------------------------------
 • Category
    1 : Add, Edit, Delete ⚠️
@@ -32,7 +32,7 @@
 • Sales
    1 : Discount, Grand total amount mismatch✅
    2 : tab index with tab key and two enter-keys⚠️
-   3 : cant close new customer window
+   3 : cant close new customer window ✅
    4 : remove date picker 
    5 : remove GST fields 
    6 : error (entered item may edited) while multiple item entry

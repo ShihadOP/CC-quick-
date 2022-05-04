@@ -34,8 +34,10 @@
    2 : tab index with tab key and two enter-keys⚠️
    3 : cant close new customer window ✅
    4 : remove date picker 
-   5 : remove GST fields 
+   5 : remove tax fields 
    6 : error (entered item may edited) while multiple item entry
+   8 : no need to edit Price    04-05-2022
+   9 : 
    
 • S.History
    1 : date wise search
@@ -75,5 +77,6 @@
 • common
    1. "enter" key is not working while alert message, change button-hover-color 
    2. update 
+   3. cache management 04-05-2022
 
 future: sales-total amount of item 

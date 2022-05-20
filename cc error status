@@ -20,7 +20,7 @@
    7 : HSN is not mandatory ✅
    8 : no field to select sub group ✅
    9 : add * for product name, group, unit ✅
-   10: cant close dropdown list of category while selected by mouse   
+   10: cant close dropdown list of category while selected by mouse 
 --------------------------------------------
 • Category
    1 : Add, Edit, Delete ⚠️
@@ -33,11 +33,11 @@
    1 : Discount, Grand total amount mismatch✅
    2 : tab index with tab key and two enter-keys⚠️
    3 : cant close new customer window ✅
-   4 : remove date picker 
-   5 : remove tax fields 
-   6 : error (entered item may edited) while multiple item entry
-   8 : no need to edit Price    04-05-2022
-   9 : need ascending order in products list
+   4 : remove date picker ⚠️
+   5 : remove tax fields ⚠️
+   6 : error (entered item may edited) while multiple item entry 
+   8 : no need to edit Price    04-05-2022 
+   9 : need ascending order in products list 
    10: cant select customer with arrow key  
    
 • S.History

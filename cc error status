@@ -53,11 +53,12 @@
    2 : remove GST ID 
    3 : auto selection needed in item search box
    4 ; edit, delete needed in items selected
-   5 : tab index with tab key and two enter-keys
+   5 : needed tab index with 'tab key' and two 'enter-keys'. tab index not working even 'enter key'
    6 : selling MRP
    7 : Add GST % in items 
    8 : cant select tax % by keybord
    9 : if purchase rate greater than MRP need an alert after typing  purchase rate  -10.04.2022 
+   10: 
 • P.History
    1 : date wise search
    2 : edit, delete needed in items selected ⚠️
@@ -77,12 +78,13 @@
    3 : 
 --------------------------------------------   
 • Stock view
-   1 : not updating proper
+   1 : not updating proper, needed to restart 
    
 --------------------------------------------  
 • common
    1. "enter" key is not working while alert message, change button-hover-color 
    2. update 
    3. cache management 04-05-2022
+   4. when hit 'Esc' key, it will logged Out. 
 
 future: sales-total amount of item 

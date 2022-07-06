@@ -5,9 +5,10 @@
    4 : "enter" key is not working while delete customer/supplier⚠️
    5 : "email" is not mandatory ✅
    6 : add red * for customer name, mobile ✅
-   7 : cant search with mobile
-   8 : add GST number 
-   9 : 
+   7 : cant search with mobile ✅
+   8 : add GST Field 
+   9 : duplicate customer not identified. Need to check when same mobile.           6 june 22 
+   10: text cursors blinking improper                                               6 june 22
    
 --------------------------------------------
 • Product  
@@ -49,10 +50,10 @@
    5 : approve, delete
 --------------------------------------------    
 • purchase entry
-   1 : change to typable textbox in invoice date
-   2 : remove GST ID 
+   1 : change to typable textbox in invoice date ✅
+   2 : remove GST rate ⚠️
    3 : auto selection needed in item search box
-   4 ; edit, delete needed in items selected
+   4 : edit, delete needed in items selected
    5 : needed tab index with 'tab key' and two 'enter-keys'. tab index not working even 'enter key'
    6 : selling MRP
    7 : Add GST % in items 
@@ -87,5 +88,6 @@
    2. update 
    3. cache management 04-05-2022
    4. when hit 'Esc' key, it will logged Out. 
+   5. need close tab with 'Ctrl+W'.
 
 future: sales-total amount of item 

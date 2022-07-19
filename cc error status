@@ -41,6 +41,7 @@
    9 : need ascending order in products list 
    10: cant select customer with arrow key  
    11: stock based sales
+   12: tab index is not working     19 July
    
 • S.History
    1 : date wise search
@@ -54,12 +55,12 @@
    2 : remove GST rate ⚠️
    3 : auto selection needed in item search box
    4 : edit, delete needed in items selected
-   5 : needed tab index with 'tab key' and two 'enter-keys'. tab index not working even 'enter key'
-   6 : selling MRP
-   7 : Add GST % in items 
-   8 : cant select tax % by keybord
-   9 : if purchase rate greater than MRP need an alert after typing  purchase rate  -10.04.2022 
-   10: 
+   5 : needed tab index with 'tab key' and two 'enter-keys'.
+   6 : tab index not working even 'enter key'        19 july 22
+   7 : add selling MRP in Purchase cart              19 july 22
+   8 : cant select GST %                             19 july 22
+   11: if purchase rate greater than MRP need an alert after typing  purchase rate  -10.04.2022 
+   12: 
 • P.History
    1 : date wise search
    2 : edit, delete needed in items selected ⚠️
